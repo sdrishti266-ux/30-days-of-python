@@ -14,8 +14,8 @@ This repository contains:
 
 ## 📅 Progress
 Day 1 - Addition of two numbers  
-Day 2 - Variables & Data Types  
-Day 3 - Conditional Statements  
+Day 2 - conditional statement 
+Day 3 - Simple calculator
 (Updating daily...)
 
 ## 🚀 Why This Repository?
