@@ -13,7 +13,7 @@ This repository contains:
 - Concept notes
 
 ## 📅 Progress
-Day 1 - Introduction & Print Statements  
+Day 1 - Addition of two numbers  
 Day 2 - Variables & Data Types  
 Day 3 - Conditional Statements  
 (Updating daily...)
