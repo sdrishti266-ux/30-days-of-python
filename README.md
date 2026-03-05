@@ -1,5 +1,6 @@
 # 30-days-of-python
-Documenting my Python learning journey from basics to advanced.  Daily practice programs, concepts, and mini projects.
+## 🎯 Goal
+To stay consistent for 30 days and strengthen my Python fundamentals.
 # 🐍 Python Learning Journey
 
 Hi, I'm Drishti 👩‍💻  
@@ -10,9 +11,6 @@ This repository contains:
 - Practice questions
 - Mini projects
 - Concept notes
-
-## 🎯 Goal
-To build strong fundamentals in Python and stay consistent with daily coding practice.
 
 ## 📅 Progress
 Day 1 - Introduction & Print Statements  
